@@ -9,9 +9,9 @@ So, I wrote EQ Data Vault.
 
 I have over 50 toons (characters in the game) across many servers (a lot of these are mules, toons to act as extra bank storage). I am what is known as an Alt junkie. Rather than play on one main character, I play a bunch of alts. I solo a lot. Play with a few friends when they are on (most have left the game). But I like to play different classes and in different zones. What that means is that I have a lot of crap in the bank. I need some way to store that data and someway to query that data.
 
-EQ Data Vault is a program that will load inventory files from EQ and make them easily searchable. The software is getting close to being release ready. I will probably do a beta before I release it into the wilds. Now is a pretty good time as EQ has just gone free to play. I hope that means that lot so of people will come back.
+EQ Data Vault is a program that will load inventory files from EQ and make them easily searchable. EQ has gone free to play and I hope that means that a lot of people will come back.
 
-Just an FYI – this software is just for my own personal amusement and education. I hope people use it and provide a lot of feedback. I want to get it working as a nice piece of software. The more I work on it, the deeper my knowledge of groovy. It’s free, of course, but features and support are on an as available basis.
+Just an FYI – this software is just for my own personal amusement and education. I've gotten it to the point where it is usable but I have moved on from groovy. It’s free, of course, but new features and support are likely not available.
 
 Here are a couple of related youtube videos showing how to use this software.
 
